@@ -25,7 +25,7 @@ This video presents a real-time demonstration of **DigiMorph Operator**, showcas
 ### Demo 2
 | **Category** | **Prompt** | **Success / Attempts** |
 |-------------|-----------|--------------------|
-| Interacting with various UI components to accomplish tasks | Visit tagvenue.com and look for a concert hall that seats 150 people in London. I need it on Feb 22 2025 for the entire day from 9 am to 12 am, just make sure it is under £90 per hour. <br> Oh could you check the filters section for appropriate filters and make sure there is parking and the entire thing is wheelchair accessible. | **10 / 10** |
+| Interacting with various UI components to accomplish complicated tasks | Visit tagvenue.com and look for a concert hall that seats 150 people in London. I need it on Feb 22 2025 for the entire day from 9 am to 12 am, just make sure it is under £90 per hour. <br> Oh could you check the filters section for appropriate filters and make sure there is parking and the entire thing is wheelchair accessible. | **8 / 10** |
 
 ![Demo1 img](https://github.com/DigiMorphLab/Operator/blob/main/operator_demo2.gif)
 
